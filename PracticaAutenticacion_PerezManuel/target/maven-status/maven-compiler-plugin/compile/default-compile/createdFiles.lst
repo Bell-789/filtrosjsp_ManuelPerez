@@ -1,0 +1,5 @@
+com\mycompany\practicaautenticacion_perezmanuel\resources\JakartaEE8Resource.class
+filtros\FiltroAutenticacion.class
+servlets\Login.class
+servlets\pokemon.class
+com\mycompany\practicaautenticacion_perezmanuel\JakartaRestConfiguration.class
